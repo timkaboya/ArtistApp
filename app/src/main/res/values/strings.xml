@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Angel</string>
+    <string name="action_settings">Settings</string>
+    <string name="artistName">Angel Mutoni</string>
+    <string name="picture">Angel Picture</string>
+    <string name="occupation">Hip hop Artist</string>
+    <string name="site">Site:</string>
+    <string name="website">www.angelmutoni.com</string>
+    <string name="drawer_open">Open Nav Drawer</string>
+    <string name="drawer_close">Close Nav Drawer</string>
+</resources>
